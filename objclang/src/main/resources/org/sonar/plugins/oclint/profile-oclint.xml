@@ -283,5 +283,17 @@
             <repositoryKey>OCLint</repositoryKey>
             <key>missing abstract method implementation</key>
         </rule>
+        <rule>
+            <repositoryKey>OCLint</repositoryKey>
+            <key>compiler error</key>
+        </rule>
+        <rule>
+            <repositoryKey>OCLint</repositoryKey>
+            <key>compiler warning</key>
+        </rule>
+        <rule>
+            <repositoryKey>OCLint</repositoryKey>
+            <key>clang static analyzer</key>
+        </rule>
     </rules>
 </profile>
